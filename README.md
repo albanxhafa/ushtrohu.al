@@ -1,10 +1,17 @@
 # ushtrohu.al
 
-Faqja hyrëse për **Ushtrohu 1 Minutë** — një aplikacion celular plotësisht jashtë linje për
-pushime lëvizjeje njëminutëshe (shqip). Faqja në anglisht: [exercise1min.com](https://exercise1min.com).
+Faqe me ushtrime të thjeshta një-minutëshe në shqip — një rutinë për fillestarë, një katalog
+lëvizjesh pa pajisje dhe një ftesë për të shkarkuar aplikacionin. E optimizuar për SEO shqip
+(fjalët kyçe: *ushtrime në shtëpi, ushtrime pa pajisje, ushtrime të shpejta, për fillestarë*).
+
+Faqja zyrtare e aplikacionit është [exercise1min.com](https://exercise1min.com) (anglisht) —
+ky sajt (**ushtrohu.al**) është i pavarur nga ai në përmbajtje dhe në dizajn, dhe e drejton
+lexuesin drejt aplikacionit.
 
 Faqe statike — HTML, CSS dhe JS të thjeshta, pa hap ndërtimi, korniza apo asete të jashtme.
-Publikohet në **GitHub Pages** me çdo push në `main` përmes `.github/workflows/deploy.yml`.
+Përmban të dhëna të strukturuara JSON-LD (`WebSite`, `HowTo`, `FAQPage`) për rezultate të
+pasura në kërkim. Publikohet në **GitHub Pages** me çdo push në `main` përmes
+`.github/workflows/deploy.yml`.
 
 ## Parapamje lokale
 
