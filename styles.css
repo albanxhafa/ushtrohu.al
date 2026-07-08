@@ -1,4 +1,4 @@
-/* Ushtrohu 1 Minutë — ushtrohu.al (SQ)
+/* Ushtrohu 1 Min — ushtrohu.al (SQ)
    Content-first exercise page. Self-contained: no external fonts/assets. */
 
 /* ---- Tokens ------------------------------------------------------------ */
@@ -146,7 +146,14 @@ ul, ol { margin: 0; }
   color: var(--ink);
   flex: none;
 }
-.brand-mark { width: 26px; height: 26px; flex: none; display: block; }
+.brand-mark {
+  width: 32px;
+  height: 32px;
+  flex: none;
+  display: block;
+  border-radius: 7px;
+  object-fit: contain;
+}
 
 .site-nav { display: flex; align-items: center; gap: 1.35rem; }
 .site-nav > a {

@@ -1,4 +1,4 @@
-// Ushtrohu 1 Minutë — page interactions.
+// Ushtrohu 1 Min — page interactions.
 // Progressive enhancement only: the page is fully usable with JS disabled
 // (the reveal styles apply only when the <html class="js"> flag is set, which
 // an inline <head> script sets before first paint).
