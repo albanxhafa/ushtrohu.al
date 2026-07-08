@@ -3,12 +3,21 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet" />
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="color-scheme" content="light dark" />
   <script>document.documentElement.classList.add("js");</script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PHN8WK00TK"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+
+    gtag("config", "G-PHN8WK00TK");
+  </script>
   <title>Ushtrohu 1 Min — 10 Ushtrime në Shtëpi, Pa Pajisje</title>
   <meta name="description" content="10 ushtrime 1-minutëshe në shtëpi ose zyrë, pa pajisje dhe pa palestër. Rutinë e thjeshtë për fillestarë, falas." />
-  <meta name="theme-color" content="#2e7d5b" media="(prefers-color-scheme: light)" />
-  <meta name="theme-color" content="#0d1611" media="(prefers-color-scheme: dark)" />
+  <meta name="theme-color" content="#2e7d5b" />
   <meta property="og:title" content="Ushtrohu 1 Min — 10 Ushtrime në Shtëpi" />
   <meta property="og:description" content="10 ushtrime 1-minutëshe për shtëpi ose zyrë, pa pajisje, pa palestër dhe falas." />
   <meta property="og:type" content="website" />
@@ -33,6 +42,7 @@
   <link rel="icon" href="/favicon-16x16.png?v=2" type="image/png" sizes="16x16" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png?v=2" sizes="180x180" />
   <link rel="manifest" href="/site.webmanifest" />
+  <link rel="alternate" href="/llms.txt" type="text/markdown" title="Udhëzues për LLM" />
   <link rel="stylesheet" href="styles.css" />
 
   <!-- Structured data: site, page, exercise routine, exercise list and FAQ -->
@@ -236,11 +246,11 @@
 
   <main id="main">
     <!-- Hero -->
-    <section class="hero">
+    <section class="hero" aria-labelledby="hero-title">
       <div class="wrap">
         <div class="hero-copy reveal">
           <p class="eyebrow">Ushtrime të thjeshta · pa pajisje</p>
-          <h1>Ushtrohu për <span class="hl">1 minutë</span>, kudo që je.</h1>
+          <h1 id="hero-title">Ushtrohu për <span class="hl">1 minutë</span>, kudo që je.</h1>
           <p class="lede">Ushtrime të shpejta që i bën në shtëpi, në zyrë a gjatë pushimit — pa palestër, pa pajisje dhe pa llogari. Zgjidh një ushtrim, bëje tani.</p>
           <div class="hero-actions">
             <a class="btn-primary" href="#rutina">Fillo rutinën →</a>
@@ -276,10 +286,10 @@
     </section>
 
     <!-- Why one minute -->
-    <section class="section band-why">
+    <section class="section band-why" aria-labelledby="why-title">
       <div class="wrap reveal">
         <p class="eyebrow center">Pse 1 minutë?</p>
-        <p class="statement">Nuk të duhet një orë. <em>Të duhet një minutë, shpesh.</em></p>
+        <h2 class="statement" id="why-title">Nuk të duhet një orë. <em>Të duhet një minutë, shpesh.</em></h2>
         <p class="statement-sub">Shumica prej nesh rrimë ulur me orë të tëra — në punë, në mësim, para ekranit. Zgjidhja nuk është një program i gjatë që e braktis pas një jave. Janë ushtrime të vogla e të shpejta, mjaftueshëm shpesh sa të bëjnë ndryshim: më shumë energji, qafë e shpinë më e lehtë, mendje më e kthjellët.</p>
         <ul class="why-grid">
           <li class="why reveal"><span class="why-ic" aria-hidden="true">⚡</span><h3>E shpejtë</h3><p>Një rreth zgjat rreth një minutë. E fut lehtë mes takimeve ose detyrave.</p></li>
@@ -290,11 +300,11 @@
     </section>
 
     <!-- The routine -->
-    <section class="section" id="rutina">
+    <section class="section" id="rutina" aria-labelledby="routine-title">
       <div class="wrap">
         <div class="sec-head reveal">
           <p class="eyebrow center">Rutina për fillestarë</p>
-          <h2>Një rreth i thjeshtë, rreth 1 minutë</h2>
+          <h2 id="routine-title">Një rreth i thjeshtë, rreth 1 minutë</h2>
           <p class="muted">Pa numërues dhe pa nxitim — bëji ushtrimet me radhë, me ritmin tënd. Përsërite 2–3 herë kur të kesh më shumë kohë.</p>
         </div>
         <ol class="routine reveal">
@@ -334,11 +344,11 @@
     </section>
 
     <!-- Ten starter exercises -->
-    <section class="section band-list" id="lista">
+    <section class="section band-list" id="lista" aria-labelledby="exercise-list-title">
       <div class="wrap">
         <div class="sec-head reveal">
           <p class="eyebrow center">10 ushtrime të shpejta</p>
-          <h2>Zgjidh një ushtrim dhe bëje për 1 minutë</h2>
+          <h2 id="exercise-list-title">Zgjidh një ushtrim dhe bëje për 1 minutë</h2>
           <p class="muted">Këto janë ushtrime të thjeshta për fillim. Bëji me ritmin tënd, pa pajisje dhe pa nevojë për palestër.</p>
         </div>
 
@@ -398,11 +408,11 @@
     </section>
 
     <!-- Download the app -->
-    <section class="section band-app" id="app">
+    <section class="section band-app" id="app" aria-labelledby="app-title">
       <div class="wrap app-inner reveal">
         <div class="app-copy">
           <p class="eyebrow">Do më shumë?</p>
-          <h2>Merr aplikacionin në telefon</h2>
+          <h2 id="app-title">Merr aplikacionin në telefon</h2>
           <p>Faqja të jep 10 ushtrime për të nisur menjëherë. Kur të duash më shumë ushtrime, kujtesa gjatë ditës dhe progres të qetë, shkarko aplikacionin celular — plotësisht jashtë linje dhe pa llogari.</p>
           <div class="app-actions">
             <div class="stores">
@@ -424,11 +434,11 @@
     </section>
 
     <!-- FAQ -->
-    <section class="section" id="pyetje">
+    <section class="section" id="pyetje" aria-labelledby="faq-title">
       <div class="wrap faq-wrap">
         <div class="sec-head reveal">
           <p class="eyebrow center">Pyetje të shpeshta</p>
-          <h2>Çfarë duhet të dish për ushtrimet 1-minutëshe</h2>
+          <h2 id="faq-title">Çfarë duhet të dish për ushtrimet 1-minutëshe</h2>
         </div>
         <div class="faq reveal">
           <details>

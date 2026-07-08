@@ -1,0 +1,81 @@
+# Ushtrohu 1 Min
+
+Ushtrohu 1 Min është faqe shqip për ushtrime të shkurtra 1-minutëshe që mund të bëhen në shtëpi, në zyrë ose gjatë pushimit. Ushtrimet janë pa pajisje, pa palestër dhe falas.
+
+Faqja publike është gati për prodhim dhe e hapur për crawling dhe indeksim.
+
+## Mesazhi Kryesor
+
+Ushtrohu për 1 minutë, kudo që je.
+
+Faqja ndihmon përdoruesin të zgjedhë një ushtrim të thjeshtë dhe ta bëjë menjëherë. Qëllimi nuk është një program i gjatë stërvitjeje, por një zakon i vogël e i përsëritshëm gjatë ditës.
+
+## Pse një minutë
+
+Shumë njerëz rrinë ulur për orë të tëra në punë, në mësim ose para ekranit. Një minutë ushtrime e bërë shpesh mund të ndihmojë përdoruesin të ndërpresë qëndrimin ulur dhe të shtojë aktivitet të lehtë në ditë.
+
+## Rutina Për Fillestarë
+
+1. Gjunjë lart në vend: ec në vend duke ngritur gjunjët lart, rreth 20 sekonda.
+2. Kërcime yjesh: jumping jacks klasike, 20 herë.
+3. Kërrusje: squats me shpinë të drejtë, 15 herë.
+4. Shtytje në mur: variant i lehtë i push-up-it, 10 herë.
+5. Ngritje thembrash: ngri thembrat lart mbi gishta dhe ulu ngadalë, 20 herë.
+6. Shtrirje krahësh lart: shtri krahët lart dhe merr frymë thellë, 15 sekonda.
+
+## 10 Ushtrime Të Shpejta
+
+- Gjunjë lart në vend: ec në vend duke ngritur gjunjët drejt belit.
+- Kërcime yjesh: hap këmbët dhe ngri krahët njëkohësisht; mund të bëhet edhe me hapa pa kërcim.
+- Kërrusje: ulu sikur po prek një karrige, me gjoksin hapur dhe thembrat në tokë.
+- Shtytje në mur: vendos duart në mur dhe shtyhu mbrapsht ngadalë.
+- Ngritje thembrash: ngrihu mbi majat e gishtave, mbaje pak dhe ulu ngadalë.
+- Rrotullime krahësh: shtri krahët anash dhe bëj rrathë të vegjël në të dy drejtimet.
+- Hapa përpara: bëj një hap përpara, ulu pak dhe kthehu, duke ndërruar këmbën.
+- Plank i shkurtër: mbështetu në parakrahë ose duar dhe mbaje trupin drejt.
+- Ura: shtrihu në shpinë, përkul gjunjët dhe ngri legenin lart.
+- Shtrirje krahësh lart: shtri krahët mbi kokë, merr frymë thellë dhe zgjate trupin butësisht.
+
+## Aplikacioni
+
+Faqja jep 10 ushtrime për të nisur menjëherë. Aplikacioni celular vjen së shpejti për përdoruesit që duan më shumë ushtrime, kujtesa gjatë ditës dhe progres të qetë. Aplikacioni planifikohet të jetë jashtë linje dhe pa llogari.
+
+## Pyetje Të Shpeshta
+
+### Çfarë është Ushtrohu 1 Min?
+
+Ushtrohu 1 Min është një faqe shqip për ushtrime të shkurtra 1-minutëshe që mund t'i bësh në shtëpi, në zyrë ose gjatë pushimit, pa pajisje.
+
+### A mund të ushtrohem në shtëpi pa pajisje?
+
+Po. Të gjitha ushtrimet këtu bëhen me peshën e trupit. Nuk të duhet palestër, pesha apo pajisje. Të duhet vetëm pak hapësirë.
+
+### Sa shpesh duhet të bëj ushtrime 1-minutëshe?
+
+Nise me një minutë çdo një a dy orë kur rri ulur. Qëllimi është të krijosh një zakon të vogël, jo të bësh stërvitje të rëndë.
+
+### A janë këto ushtrime për fillestarë?
+
+Po. Nis me rutinën për fillestarë dhe bëji ushtrimet me ritmin tënd. Ndal sa herë të duhet.
+
+### A mund t'i bëj këto ushtrime në zyrë?
+
+Po. Shumë prej ushtrimeve bëhen pranë tavolinës ose në një hapësirë të vogël. Zgjidh variantet më të qeta nëse je në ambient pune.
+
+### A më duhet palestër ose abonim?
+
+Jo. Kjo faqe është falas dhe ushtrimet bëhen kudo. Aplikacioni celular është opsional nëse do më shumë ushtrime dhe kujtesa.
+
+### Ku mund ta marr aplikacionin?
+
+Aplikacioni celular vjen së shpejti për iOS dhe Android. Ndiqe këtë faqe për njoftime.
+
+## Siguria
+
+Ndal nëse ndjen dhimbje ose parehati. Kjo faqe nuk zëvendëson këshillën e profesionistit shëndetësor.
+
+## URL Kanonike
+
+- Ballina: https://ushtrohu.al
+- Udhëzues për LLM: https://ushtrohu.al/llms.txt
+- Sitemap: https://ushtrohu.al/sitemap.xml

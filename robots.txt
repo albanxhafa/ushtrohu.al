@@ -1,4 +1,5 @@
-# Pre-launch indexing is disabled by the robots meta tag in index.html.
-# Crawlers must be allowed to fetch the page so they can see the noindex directive.
+# Politika e prodhimit: lejo crawler-at të lexojnë faqen publike.
 User-agent: *
 Allow: /
+
+Sitemap: https://ushtrohu.al/sitemap.xml
