@@ -1,6 +1,5 @@
 /* Ushtrohu 1 Minutë — ushtrohu.al (SQ)
-   Content-first exercise page. Shares the brand tokens with exercise1min.com
-   but has its own, distinct layout. Self-contained: no external fonts/assets. */
+   Content-first exercise page. Self-contained: no external fonts/assets. */
 
 /* ---- Tokens ------------------------------------------------------------ */
 :root {
@@ -63,7 +62,7 @@ body {
   overflow-x: clip;
 }
 
-/* Warmer ambient wash — leans amber to visually distinguish from the EN site */
+/* Warmer ambient wash for the content page */
 body::before {
   content: "";
   position: fixed;
@@ -150,7 +149,7 @@ ul, ol { margin: 0; }
 .brand-mark { width: 26px; height: 26px; flex: none; display: block; }
 
 .site-nav { display: flex; align-items: center; gap: 1.35rem; }
-.site-nav > a:not(.lang-link) {
+.site-nav > a {
   text-decoration: none;
   font-family: var(--font-display);
   font-weight: 650;
@@ -158,22 +157,7 @@ ul, ol { margin: 0; }
   color: var(--ink-soft);
   transition: color 0.2s;
 }
-.site-nav > a:not(.lang-link):hover { color: var(--ink); }
-.lang-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
-  text-decoration: none;
-  font-weight: 650;
-  font-size: 0.92rem;
-  color: var(--ink-soft);
-  padding: 0.42rem 0.8rem;
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  transition: color 0.2s, border-color 0.2s, background 0.2s;
-}
-.lang-link:hover { color: var(--ink); border-color: var(--brand); background: var(--surface); }
-.lang-link::after { content: "→"; opacity: 0.6; }
+.site-nav > a:hover { color: var(--ink); }
 
 /* ---- Buttons ----------------------------------------------------------- */
 .btn-primary {
@@ -433,46 +417,53 @@ ul, ol { margin: 0; }
   color: var(--ink);
 }
 
-/* ---- Catalog by category ---------------------------------------------- */
+/* ---- Exercise cards ----------------------------------------------------- */
 .band-list { background: linear-gradient(180deg, transparent, color-mix(in srgb, var(--brand) 5%, transparent)); }
-.cat-grid {
+.exercise-grid {
   margin-top: 2.5rem;
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1.1rem;
 }
-.cat {
+.exercise-card {
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: var(--radius);
   padding: 1.5rem 1.4rem;
   box-shadow: var(--shadow-sm);
 }
-.cat h3 {
+.exercise-card-head {
   display: flex;
   align-items: center;
-  gap: 0.6rem;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.95rem;
+}
+.exercise-card-head span,
+.exercise-card-head b {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}
+.exercise-card-head span {
+  color: var(--brand);
+  background: var(--brand-tint);
+  padding: 0.25rem 0.65rem;
+  border-radius: 999px;
+  font-size: 0.86rem;
+}
+.exercise-card-head b {
+  color: var(--amber-deep);
+  font-size: 0.9rem;
+}
+.exercise-card h3 {
   font-size: 1.2rem;
   letter-spacing: -0.01em;
-  margin-bottom: 0.9rem;
 }
-.cat-dot {
-  width: 12px; height: 12px;
-  border-radius: 50%;
-  background: var(--amber);
-  box-shadow: 0 0 0 4px color-mix(in srgb, var(--amber) 24%, transparent);
-  flex: none;
-}
-.cat ul { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
-.cat li {
-  font-family: var(--font-display);
-  font-weight: 600;
-  font-size: 0.92rem;
-  padding: 0.42rem 0.85rem;
-  border-radius: 999px;
-  background: var(--surface-2);
-  border: 1px solid var(--line);
-  color: var(--ink);
+.exercise-card p {
+  margin-top: 0.45rem;
+  color: var(--ink-soft);
+  font-size: 0.98rem;
 }
 
 /* ---- Download app band ------------------------------------------------- */
@@ -563,7 +554,6 @@ ul, ol { margin: 0; }
 .foot-links { display: inline-flex; align-items: center; gap: 0.6rem; color: var(--ink-soft); font-size: 0.92rem; flex-wrap: wrap; }
 .foot-links a { color: var(--brand); text-decoration: none; font-weight: 650; }
 .foot-links a:hover { text-decoration: underline; }
-.foot-sep { opacity: 0.4; }
 
 /* ---- Reveal on scroll (progressive enhancement) ----------------------- */
 @media (prefers-reduced-motion: no-preference) {
@@ -579,9 +569,8 @@ ul, ol { margin: 0; }
 
 /* ---- Responsive -------------------------------------------------------- */
 @media (max-width: 900px) {
-  .cat-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .why-grid { grid-template-columns: 1fr; text-align: center; }
-  .site-nav > a:not(.lang-link) { display: none; }
+  .site-nav > a { display: none; }
 }
 @media (max-width: 760px) {
   .hero .wrap { grid-template-columns: 1fr; }
@@ -590,7 +579,7 @@ ul, ol { margin: 0; }
   .app-badge { justify-content: flex-start; }
 }
 @media (max-width: 540px) {
-  .cat-grid { grid-template-columns: 1fr; }
+  .exercise-grid { grid-template-columns: 1fr; }
   .hero-facts { gap: 1.4rem; }
   .rstep { grid-template-columns: auto 1fr; row-gap: 0.5rem; }
   .rstep-dose { grid-column: 2; grid-row: 2; justify-self: start; display: inline-flex; align-items: baseline; gap: 0.4rem; font-size: 1.2rem; }
