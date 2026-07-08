@@ -4,9 +4,9 @@ Faqe me ushtrime të thjeshta një-minutëshe në shqip — një rutinë për fi
 lëvizjesh pa pajisje dhe një ftesë për të shkarkuar aplikacionin. E optimizuar për SEO shqip
 (fjalët kyçe: *ushtrime në shtëpi, ushtrime pa pajisje, ushtrime të shpejta, për fillestarë*).
 
-Faqja zyrtare e aplikacionit është [exercise1min.com](https://exercise1min.com) (anglisht) —
-ky sajt (**ushtrohu.al**) është i pavarur nga ai në përmbajtje dhe në dizajn, dhe e drejton
-lexuesin drejt aplikacionit.
+Ky sajt (**ushtrohu.al**) është i pavarur — nuk lidhet me faqen exercise1min.com dhe nuk e
+prezanton veten si përkthim i saj. E vetmja ftesë është drejt **aplikacionit celular**
+Ushtrohu 1 Minutë (së shpejti për iOS & Android).
 
 Faqe statike — HTML, CSS dhe JS të thjeshta, pa hap ndërtimi, korniza apo asete të jashtme.
 Përmban të dhëna të strukturuara JSON-LD (`WebSite`, `HowTo`, `FAQPage`) për rezultate të
