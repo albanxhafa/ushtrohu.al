@@ -1,17 +1,17 @@
 # ushtrohu.al
 
-Faqe me ushtrime të thjeshta një-minutëshe në shqip — një rutinë për fillestarë, 10
+Faqe me ushtrime të thjeshta një-minutëshe në shqip - një rutinë për fillestarë, 48
 ushtrime pa pajisje dhe një ftesë për të shkarkuar aplikacionin celular. E optimizuar për
-SEO shqip (fjalët kyçe: *ushtrime në shtëpi, ushtrime pa pajisje, ushtrime të shpejta,
-për fillestarë*).
+SEO shqip (fjalët kyçe: *ushtrime në shtëpi, ushtrime pa pajisje, ushtrime për barkun,
+ushtrime për këmbë, ushtrime për vithe, ushtrime për krahë, kardio në shtëpi*).
 
 Ky sajt (**ushtrohu.al**) është faqe e pavarur për ushtrime një-minutëshe në shqip. E
 vetmja ftesë jashtë përmbajtjes është drejt **aplikacionit celular** (së shpejti për
 iOS & Android).
 
 Faqe statike — HTML, CSS dhe JS të thjeshta, pa hap ndërtimi, korniza apo asete të jashtme.
-Përmban të dhëna të strukturuara JSON-LD (`WebSite`, `HowTo`, `FAQPage`) për rezultate të
-pasura në kërkim. Publikohet në **GitHub Pages** me çdo push në `main` përmes
+Përmban të dhëna të strukturuara JSON-LD (`WebSite`, `WebPage`, `HowTo`, `ItemList`, `FAQPage`) për
+kuptim më të qartë nga crawler-at dhe motorët e kërkimit. Publikohet në **GitHub Pages** me çdo push në `main` përmes
 `.github/workflows/deploy.yml`.
 
 ## Parapamje lokale

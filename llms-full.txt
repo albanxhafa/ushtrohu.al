@@ -1,14 +1,18 @@
 # Ushtrohu 1 Min
 
-Ushtrohu 1 Min është faqe shqip për ushtrime të shkurtra 1-minutëshe që mund të bëhen në shtëpi, në zyrë ose gjatë pushimit. Ushtrimet janë pa pajisje, pa palestër dhe falas.
+Ushtrohu 1 Min është faqe shqip për 48 ushtrime të shkurtra 1-minutëshe që mund të bëhen në shtëpi, në zyrë ose gjatë pushimit. Ushtrimet janë pa pajisje, pa palestër dhe falas.
 
 Faqja publike është gati për prodhim dhe e hapur për crawling dhe indeksim.
 
 ## Mesazhi Kryesor
 
-Ushtrohu për 1 minutë, kudo që je.
+48 ushtrime në shtëpi për 1 minutë.
 
 Faqja ndihmon përdoruesin të zgjedhë një ushtrim të thjeshtë dhe ta bëjë menjëherë. Qëllimi nuk është një program i gjatë stërvitjeje, por një zakon i vogël e i përsëritshëm gjatë ditës.
+
+## Fjalë Kyçe Dhe Qëllime
+
+Tema kryesore është ushtrime në shtëpi pa pajisje. Faqja përdor natyrshëm edhe kërkime të lidhura si ushtrime për barkun, ushtrime për këmbë, ushtrime për vithe, ushtrime për krahë, ushtrime për shpinën, kardio në shtëpi, stretching në shtëpi dhe ushtrime për fillestarë.
 
 ## Pse një minutë
 
@@ -16,35 +20,77 @@ Shumë njerëz rrinë ulur për orë të tëra në punë, në mësim ose para ek
 
 ## Rutina Për Fillestarë
 
-1. Gjunjë lart në vend: ec në vend duke ngritur gjunjët lart, rreth 20 sekonda.
-2. Kërcime yjesh: jumping jacks klasike, 20 herë.
-3. Kërrusje: squats me shpinë të drejtë, 15 herë.
-4. Shtytje në mur: variant i lehtë i push-up-it, 10 herë.
-5. Ngritje thembrash: ngri thembrat lart mbi gishta dhe ulu ngadalë, 20 herë.
-6. Shtrirje krahësh lart: shtri krahët lart dhe merr frymë thellë, 15 sekonda.
+1. High Knees: ec në vend duke ngritur gjunjët lart, rreth 20 sekonda.
+2. Jumping Jacks ose step jacks: 20 sekonda.
+3. Squats: ulu sikur po prek një karrige, 15 herë.
+4. Calf Raises: ngri thembrat lart mbi gishta dhe ulu ngadalë, 20 herë.
+5. Arm Circles: shtri krahët anash dhe bëj rrathë të vegjël.
+6. Stretches: shtri krahët lart dhe merr frymë thellë, 15 sekonda.
 
-## 10 Ushtrime Të Shpejta
+## 48 Ushtrime Të Shpejta
 
-- Gjunjë lart në vend: ec në vend duke ngritur gjunjët drejt belit.
-- Kërcime yjesh: hap këmbët dhe ngri krahët njëkohësisht; mund të bëhet edhe me hapa pa kërcim.
-- Kërrusje: ulu sikur po prek një karrige, me gjoksin hapur dhe thembrat në tokë.
-- Shtytje në mur: vendos duart në mur dhe shtyhu mbrapsht ngadalë.
-- Ngritje thembrash: ngrihu mbi majat e gishtave, mbaje pak dhe ulu ngadalë.
-- Rrotullime krahësh: shtri krahët anash dhe bëj rrathë të vegjël në të dy drejtimet.
-- Hapa përpara: bëj një hap përpara, ulu pak dhe kthehu, duke ndërruar këmbën.
-- Plank i shkurtër: mbështetu në parakrahë ose duar dhe mbaje trupin drejt.
-- Ura: shtrihu në shpinë, përkul gjunjët dhe ngri legenin lart.
-- Shtrirje krahësh lart: shtri krahët mbi kokë, merr frymë thellë dhe zgjate trupin butësisht.
+1. High Knees: Ec ose vrapo lehtë në vend duke ngritur gjunjët drejt belit. Ushtrim kardio në shtëpi për të rritur pulsin dhe për të ngrohur këmbët pa pajisje. Mirë për ngrohje, energji, këmbë.
+2. Knee-to-Elbows: Ngrije gjurin drejt bërrylit të kundërt dhe rrotullo trupin lehtë. Ndihmon për aktivizimin e barkut, belit dhe koordinimit. Mirë për bark, bel, koordinim.
+3. Single Leg Hops: Kërce butë me një këmbë dhe mbaje trupin të kontrolluar. Ushtrim i shkurtër për balancë, pulpa dhe kardio. Mirë për balancë, pulpa, kardio.
+4. Bridges: Shtrihu në shpinë, përkul gjunjët dhe ngri legenin lart. I mirë për vithet, pjesën e poshtme të shpinës dhe kontrollin e trupit. Mirë për vithe, shpinë e poshtme.
+5. Flutter Kicks: Shtrihu në shpinë dhe lëviz këmbët lart e poshtë me ritëm të vogël. Ushtrim për barkun e poshtëm dhe fleksorët e ijëve. Mirë për bark i poshtëm, ijë.
+6. Crunches: Përkulu lehtë duke ngritur shpatullat nga dyshemeja. Një ushtrim bazë për barkun që bëhet në shtëpi pa pajisje. Mirë për bark, core.
+7. Heel Taps: Shtrihu me gjunjë të përkulur dhe prek thembrat anash me radhë. Aktivizon barkun anësor dhe belin me lëvizje të kontrolluar. Mirë për bark anësor, bel.
+8. Climbers: Nga pozicioni plank, afro gjunjët drejt gjoksit me ritëm. Kombinon ushtrime për barkun, shpatullat dhe kardio në një lëvizje. Mirë për bark, shpatulla, kardio.
+9. Stretches: Shtri krahët, këmbët dhe shpinën butësisht. I përshtatshëm për pushime të shkurtra kur rri gjatë ulur. Mirë për lëvizshmëri, tension pas uljes.
+10. Plank Hold: Mbështetu në parakrahë ose duar dhe mbaje trupin drejt. Ushtrim për barkun, stabilitetin e core dhe shpatullat. Mirë për core, stabilitet.
+11. Squats: Ulu sikur po prek një karrige dhe ngrihu prapë me kontroll. Ushtrim klasik për këmbë dhe vithe në shtëpi. Mirë për këmbë, vithe.
+12. Calf Raises: Ngrihu mbi majat e gishtave, mbaje pak dhe ulu ngadalë. I thjeshtë për pulpat dhe kontrollin e kyçeve. Mirë për pulpa, kyçe.
+13. Bicep Extensions: Përkul parakrahët drejt shpatullave dhe zgjati sërish. Ushtrim i lehtë për krahët pa pesha. Mirë për krahë, biceps.
+14. Side Shoulder Taps: Hapi krahët anash dhe prek shpatullat me radhë. Ndihmon për ngrohjen e shpatullave dhe krahëve. Mirë për shpatulla, krahë.
+15. Shoulder Taps: Në plank, prek shpatullën e kundërt me secilën dorë. Ushtrim për barkun dhe stabilitetin e trupit. Mirë për bark, shpatulla, stabilitet.
+16. Arm Circles: Shtri krahët anash dhe bëj rrathë të vegjël. I mirë për ngrohje të shpatullave gjatë pushimeve në zyrë. Mirë për shpatulla, qafë e lehtë.
+17. Jumping Jacks: Hap këmbët dhe ngri krahët njëkohësisht, pastaj kthehu në qendër. Ushtrim kardio pa pajisje për trupin e plotë. Mirë për kardio, trup i plotë.
+18. Seal Jacks: Kërce duke hapur këmbët dhe duke bashkuar krahët përpara. Aktivizon krahët, gjoksin dhe këmbët. Mirë për gjoks, krahë, kardio.
+19. Step Jacks: Bëj hapa anash ndërsa ngre krahët mbi kokë. Variant low-impact për kardio në shtëpi dhe për fillestarë. Mirë për kardio pa kërcim.
+20. Side Jacks: Lëviz anash nga njëra këmbë te tjetra me krahë aktivë. Ndihmon ritmin, këmbët dhe pulpat. Mirë për këmbë, pulpa, kardio.
+21. Lunges: Bëj një hap përpara, ulu pak dhe kthehu në qendër. Ushtrim për këmbë, vithe dhe balancë. Mirë për këmbë, vithe, balancë.
+22. Butt Kicks: Vrapo lehtë në vend duke afruar thembrat drejt vitheve. Ngroh kofshët e pasme dhe mban pulsin aktiv. Mirë për kofshë të pasme, kardio.
+23. Side Leg Raises: Ngrije këmbën anash dhe ule ngadalë. Ushtrim për vithe, ijë dhe pjesën e jashtme të kofshëve. Mirë për ijë, vithe, kofshë.
+24. Prone Reverse Fly: Shtrihu barkas dhe ngri krahët anash me kontroll. I mirë për shpinën e sipërme, shpatullat dhe qëndrimin. Mirë për shpinë e sipërme, shpatulla.
+25. W-Extensions: Barkas, tërhiq krahët në formë W dhe zgjati sërish. Ndihmon hapjen e gjoksit dhe forcimin e shpinës së sipërme. Mirë për shpinë, shpatulla, gjoks i hapur.
+26. Squat Hold: Ulu në squat dhe mbaje pozicionin pa u nxituar. Punon këmbët, vithet dhe qëndrueshmërinë muskulore. Mirë për qëndrueshmëri këmbësh.
+27. Scissor Chops: Lëviz krahët diagonalisht para trupit duke alternuar anët. Aktivizon core, shpatulla dhe koordinim. Mirë për core, shpatulla, koordinim.
+28. Arm Scissors: Kryqëzo krahët para trupit duke ndërruar krahun që kalon sipër. Ngroh gjoksin dhe shpatullat pa pajisje. Mirë për gjoks, shpatulla.
+29. Arm Raises: Ngriji krahët drejt mbi kokë dhe uli me kontroll. Lëvizje e thjeshtë për shpatulla dhe krahë. Mirë për shpatulla, krahë.
+30. Chest Expansions: Tërhiq krahët prapa për të hapur gjoksin dhe liroji ngadalë. I mirë pas qëndrimit ulur dhe punës në kompjuter. Mirë për qëndrim, gjoks, shpatulla.
+31. Reverse Lunges: Bëj një hap mbrapa, përkul gjurin e përparmë dhe kthehu në këmbë. Variant i mirë për këmbët dhe vithet. Mirë për këmbë, vithe, balancë.
+32. Split Jacks: Kërce duke ndërruar këmbët përpara dhe mbrapa si gërshërë. Ushtrim kardio për këmbë dhe ritëm. Mirë për këmbë, pulpa, ritëm.
+33. Air Bike Crunches: Shtrihu dhe pedalo këmbët ndërsa afron bërrylin me gjurin e kundërt. Ushtrim i njohur për barkun dhe obliques. Mirë për bark, bark anësor.
+34. Scissors: Shtrihu dhe kryqëzo këmbët drejt lart e poshtë me kontroll. Punon barkun e poshtëm dhe kontrollin e këmbëve. Mirë për bark i poshtëm, ijë.
+35. Crunch Kicks: Bëj crunch dhe shkelmo këmbët me radhë. Kombinon ushtrime për barkun me lëvizje të këmbëve. Mirë për bark, këmbë.
+36. Plank Rotations: Nga plank, rrotullo ijët majtas dhe djathtas me kontroll. Punon anët e barkut, belin dhe shpatullat. Mirë për bel, bark anësor, shpatulla.
+37. Hops on the Spot: Kërce lehtë në vend me të dyja këmbët. Lëvizje e thjeshtë për kardio të shpejtë në shtëpi. Mirë për kardio e lehtë, pulpa.
+38. Arm Extensions: Shtyji krahët përpara dhe tërhiqi mbrapa me kontroll. Ushtrim për tonifikim të krahëve pa pesha. Mirë për krahë, shpatulla.
+39. Jumping T's: Kërce duke hapur krahët drejt anash në formë T. Aktivizon këmbët dhe shpatullat ndërsa rrit pulsin. Mirë për kardio, shpatulla.
+40. Squat Jacks: Kërce me këmbët hapur, ulu në squat dhe kthehu prapë. Ushtrim i fortë për këmbë, vithe dhe kardio. Mirë për këmbë, vithe, kardio.
+41. Reverse Angels: Shtrihu barkas dhe rrëshqit krahët nga anash drejt mbi kokë. Ndihmon shpinën e sipërme dhe shpatullat. Mirë për shpinë e sipërme, shpatulla.
+42. Hero Squats: Bëj squat dhe ngrihu duke shtrirë krahët lart. Kombinon këmbët, vithet dhe shpatullat në një lëvizje. Mirë për këmbë, vithe, shpatulla.
+43. Side Arm Raises: Ngriji krahët anash deri në lartësinë e shpatullave dhe uli ngadalë. Ushtrim i pastër për shpatulla. Mirë për shpatulla, krahë.
+44. Wide Arm Circles: Bëj rrathë të mëdhenj me krahë të shtrirë. Liron shpatullat dhe pjesën e sipërme të shpinës. Mirë për shpatulla, shpinë e sipërme.
+45. Raised Leg Circles: Shtrihu, ngrije një këmbë dhe vizato rrathë të ngadaltë. Punon barkun, ijët dhe kontrollin e lëvizjes. Mirë për bark, ijë, kontroll.
+46. Lunge Step-Ups: Bëj hap në lunge dhe ngrihu duke alternuar këmbët. Ndihmon forcën e këmbëve, vithet dhe balancën. Mirë për këmbë, vithe, balancë.
+47. Plank Leg Raises: Në plank, ngrije njërën këmbë lart dhe ndërro anën. Shton punë për barkun, vithet dhe stabilitetin. Mirë për bark, vithe, stabilitet.
+48. Side Bicep Extensions: Përkul dhe zgjat krahët anash me shtrëngim të lehtë. Ushtrim për krahët dhe shpatullat pa pajisje. Mirë për krahë, shpatulla.
 
 ## Aplikacioni
 
-Faqja jep 10 ushtrime për të nisur menjëherë. Aplikacioni celular vjen së shpejti për përdoruesit që duan më shumë ushtrime, kujtesa gjatë ditës dhe progres të qetë. Aplikacioni planifikohet të jetë jashtë linje dhe pa llogari.
+Faqja jep 48 ushtrime për të nisur menjëherë. Aplikacioni celular vjen së shpejti për përdoruesit që duan kujtesa gjatë ditës, rotacion ushtrimesh dhe progres të qetë. Aplikacioni planifikohet të jetë jashtë linje dhe pa llogari.
 
 ## Pyetje Të Shpeshta
 
 ### Çfarë është Ushtrohu 1 Min?
 
 Ushtrohu 1 Min është një faqe shqip për ushtrime të shkurtra 1-minutëshe që mund t'i bësh në shtëpi, në zyrë ose gjatë pushimit, pa pajisje.
+
+### A i liston faqja të gjitha 48 ushtrimet?
+
+Po. Lista përfshin 48 ushtrime 1-minutëshe, nga kardio dhe stretching deri te ushtrime për barkun, këmbët, vithet, krahët, shpatullat dhe shpinën.
 
 ### A mund të ushtrohem në shtëpi pa pajisje?
 
